@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang = "en-us">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<head>
+		<title>Signup</title>
+	</head>
+	<body>
+	<div style = "color:blue;padding:100px;border:1px solid black; margin:10px 10px 10px">
+		<form>
+		<fieldset>
+		<legend>New User</legend>
+		Email ID </br>
+		<input type = "email" name = "email"></br>
+		Mobile No.</br>
+		<input type = "number" name = "Mobile"></br>
+		Password</br>
+		<input type = "password" name = "password"></br>
+		Confirm Password</br>
+		<input type = "password"></br>
+		<Input Type = "Submit" value = "Submit">
+		<Input Type = "Reset">
+		</fieldset>
+	</form>
+	</div>
+	</body>
